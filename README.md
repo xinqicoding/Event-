@@ -1,2 +1,2 @@
-# Event-
-Event Search and Recommendation Engine
+# Event+
+Java Web Service Development -- Event Search and Recommendation Engine
